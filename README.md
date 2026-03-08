@@ -6,8 +6,8 @@ I share tutorials, insights, and projects on data analytics and backend developm
 I graduated BSIT in July 2025.  
 
 Get in touch:  
-- Facebook: https://www.facebook.com/Joemardeveragarcia/
-- LinkedIn: https://www.linkedin.com/in/joemargarcia/
+- Facebook: facebook.com/Joemardeveragarcia
+- LinkedIn: linkedin.com/in/joemargarcia
 - Email: joemargarcia10@gmail.com
 
 Recent Projects:  
