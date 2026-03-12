@@ -1,9 +1,19 @@
 Hey, I'm Joemar! 👋
-I'm a Data Analyst who enjoys turning data into actionable insights and building backend systems.  
 
-I help create dashboards, automate workflows, and analyze data for better decision-making.  
-I share tutorials, insights, and projects on data analytics and backend development.  
-I graduated BSIT in July 2025.  
+I'm a **Data Analyst** passionate about turning raw data into actionable insights and building efficient **data pipelines** that support data-driven decision-making.
+
+I work on projects involving **data analysis, dashboards, and data engineering workflows**, using tools that transform complex datasets into meaningful information.
+
+### What I Share on GitHub
+- Data analytics projects  
+- ETL and data pipeline implementations  
+- Dashboard and data visualization work  
+- Learning notes and practical experiments in data engineering  
+
+
+
+
+
 
 Get in touch:  
 - Facebook: [@joemargarcia](https://www.facebook.com/Joemardeveragarcia/)
