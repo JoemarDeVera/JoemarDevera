@@ -1,13 +1,8 @@
-# Hey, I'm Joemar! 👋
-
+## Hey, I'm Joemar! 👋
 I'm a **Data Analyst & Web Developer** based in the Philippines, passionate about turning raw data into actionable insights — and building the pipelines and web apps that make data-driven decisions possible.
-
 I work across the full spectrum: from cleaning messy datasets and engineering ETL workflows, to designing dashboards and shipping full-stack web applications.
-
 ---
-
-## What I work with
-
+### What I work with
 **Data & Analytics**
 - SQL · Python · Excel · Looker
 - ETL pipelines · Data wrangling · EDA
@@ -15,21 +10,15 @@ I work across the full spectrum: from cleaning messy datasets and engineering ET
 **Web Development**
 - Frontend & backend development
 - Full-stack web applications
-
 ---
-
-## What you'll find here
-
+### What you'll find here
 - Data analytics projects (exploratory analysis, reporting)
 - ETL and data pipeline implementations
 - Dashboard and data visualization work
 - Full-stack web development projects
 - Learning notes and experiments in data engineering
-
 ---
-
-## Recent Projects
-
+### Recent Projects
 | Project | Stack | Description |
 |---|---|---|
 | Helpdesk Web App | Full-stack | Internal helpdesk system for managing support tickets |
