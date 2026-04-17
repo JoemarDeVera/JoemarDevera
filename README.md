@@ -27,11 +27,3 @@
 | Excel-based Sales Performance Analysis | Excel | KPI tracking and trend analysis via Excel |
 | Python-based E-commerce Sales Analysis | Python | End-to-end analysis of e-commerce transaction data |
 | Corporate Layoffs Analysis | SQL · Looker | Visualizing global layoff trends using public datasets |
-
----
-
-### Get in touch
-
-- **Facebook:** [@joemargarcia](https://facebook.com/joemargarcia)
-- **LinkedIn:** [@joemargarcia](https://linkedin.com/in/joemargarcia)
-- **Email:** joemargarcia10@gmail.com
