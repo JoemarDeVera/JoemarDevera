@@ -1,6 +1,7 @@
 ## Hey, I'm Joemar! 👋
-I'm a **Data Analyst & Web Developer** based in the Philippines, passionate about turning raw data into actionable insights — and building the pipelines and web apps that make data-driven decisions possible.
-I work across the full spectrum: from cleaning messy datasets and engineering ETL workflows, to designing dashboards and shipping full-stack web applications.
+#### I'm a **Data Analyst & Web Developer** based in the Philippines, passionate about turning raw data into actionable insights — and building the pipelines and web apps that make data-driven decisions possible.
+
+#### I work across the full spectrum: from cleaning messy datasets and engineering ETL workflows, to designing dashboards and shipping full-stack web applications.
 ---
 ### What I work with
 **Data & Analytics**
@@ -29,7 +30,7 @@ I work across the full spectrum: from cleaning messy datasets and engineering ET
 
 ---
 
-## Get in touch
+### Get in touch
 
 - **Facebook:** [@joemargarcia](https://facebook.com/joemargarcia)
 - **LinkedIn:** [@joemargarcia](https://linkedin.com/in/joemargarcia)
