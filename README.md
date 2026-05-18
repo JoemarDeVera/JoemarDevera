@@ -7,4 +7,5 @@ I create web applications, data pipelines, and analytics solutions.
 ## Get in Touch
 
 📧 Email: joemargarcia10@gmail.com
-💼 LinkedIn: linkedin.com/in/joemargarcia
+
+💼 LinkedIn: https://www.linkedin.com/in/joemargarcia/
